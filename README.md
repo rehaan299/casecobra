@@ -2,7 +2,6 @@
 
 Built with the Next.js 14 App Router, Postgres, TypeScript, Tailwind & Kinde Auth
 
-![Project Image](https://github.com/rehaan299/casecobra/blob/master/public/thumbnail.png)
 
 ## Features
 
@@ -27,7 +26,5 @@ To get started with this project, run
 ```bash
   git clone https://github.com/rehaan299/casecobra.git
 ```
-
-and copy the .env.example variables into a separate .env file, fill them out & and that's all you need to get started!
-
+FILL .ENV VARIABLES FOR API'S WITH YOUT OWN DATA AND YOU ARE GOOD TO GO, DEPLOY ON VERCEL 
 
