@@ -2,6 +2,7 @@
 
 Built with the Next.js 14 App Router, Postgres, TypeScript, Tailwind & Kinde Auth
 
+#View Demo and Walkthrough here :https://www.youtube.com/watch?v=v7v4xNsGfsU
 
 ## Features
 
